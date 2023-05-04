@@ -1,7 +1,7 @@
 {
     "id": "17DB969D",
-    "path": "C:/Users/jboun/Dropbox/Arbeit/Projekte/DISIS/Daten/Appendix/Appendix.qmd",
-    "project_path": "Appendix.qmd",
+    "path": "C:/Users/jboun/Dropbox/Arbeit/Projekte/DISIS/Daten/Appendix/index.qmd",
+    "project_path": "index.qmd",
     "type": "quarto_markdown",
     "hash": "2843688489",
     "contents": "",
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "19,40",
-        "scrollLine": "15"
+        "cursorPosition": "3,12",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1683189850,
+    "lastKnownWriteTime": 1683190605,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1683189850627,
+    "last_content_update": 1683190606167,
     "read_only": false,
     "read_only_alternatives": []
 }
