@@ -1,0 +1,10 @@
+library(dplyr)
+load(file = file.path("prepared_data.RData"))
+
+mydata <- mydata %>%
+  mutate(ID = seq(1,32)) %>%
+  relocate(ID, .before = `Dokumentname`) %>%
+  select(!`Dokumentname`)
+
+save(mydata, file = file.path("prepared_data.RDS"))
+
